@@ -22,4 +22,35 @@ margin-top: -50px;
 
 header {
   border-bottom-style: solid;
+  width: 960px;
+}
+
+body {
+  width: 960px;
+}
+
+#posted{
+  position: absolute;
+  margin-top: -25px;
+}
+
+.printIcon{
+  margin-left: 850px;
+
+}
+
+#listOne{
+  position: absolute;
+  margin-top: -300px;
+  z-index: 3
+}
+
+#listTwo{
+position: absolute;
+}
+
+
+
+.linePaper{
+  z-index: 1;
 }
