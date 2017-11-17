@@ -1,0 +1,25 @@
+.headerText {
+
+margin-left: 100px;
+margin-top: -80px;
+
+}
+
+#delicious{
+  font-family: cursive;
+}
+
+#foodBlog{
+  margin-top: 10px;
+  margin-left: 0px;
+  font-size: 12px;
+}
+
+#media{
+float: right;
+margin-top: -50px;
+}
+
+header {
+  border-bottom-style: solid;
+}
