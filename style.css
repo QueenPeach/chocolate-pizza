@@ -1,6 +1,7 @@
+
 .headerText {
 
-margin-left: 100px;
+margin-left: 50px;
 margin-top: -80px;
 
 }
@@ -10,7 +11,7 @@ margin-top: -80px;
 }
 
 #foodBlog{
-  margin-top: 10px;
+  margin-top: -20px;
   margin-left: 0px;
   font-size: 12px;
 }
@@ -41,16 +42,45 @@ body {
 
 #listOne{
   position: absolute;
-  margin-top: -300px;
-  z-index: 3
+  margin-top: -250px;
+  margin-right: 50px;
+  z-index: 3;
+  font-size: 20px;
+  list-style: none;
 }
 
 #listTwo{
 position: absolute;
+margin-top: -250px;
+z-index: 3;
+margin-left: 465px;
+font-size: 20px;
+list-style: none;
 }
 
 
 
 .linePaper{
   z-index: 1;
+}
+
+.stuff {
+  display: inline-block;
+}
+
+#button {
+  display: inline-block;
+}
+
+#logo{
+  margin-left: 450px;
+
+}
+
+footer {
+  border-top-style: solid;
+}
+
+.copyright{
+  text-align: center;
 }
